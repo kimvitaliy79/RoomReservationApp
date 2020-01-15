@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BookingManagment\RoomReservationClient\bin\Debug\RoomReservationClient.exe.config
+C:\Users\User\source\repos\BookingManagment\RoomReservationClient\bin\Debug\RoomReservationClient.exe
+C:\Users\User\source\repos\BookingManagment\RoomReservationClient\bin\Debug\RoomReservationClient.pdb
+C:\Users\User\source\repos\BookingManagment\RoomReservationClient\obj\Debug\RoomReservationClient.Properties.Resources.resources
+C:\Users\User\source\repos\BookingManagment\RoomReservationClient\obj\Debug\RoomReservationClient.Rooms.resources
+C:\Users\User\source\repos\BookingManagment\RoomReservationClient\obj\Debug\RoomReservationClient.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BookingManagment\RoomReservationClient\obj\Debug\RoomReservationClient.exe
+C:\Users\User\source\repos\BookingManagment\RoomReservationClient\obj\Debug\RoomReservationClient.pdb
+C:\Users\User\source\repos\BookingManagment\RoomReservationClient\obj\Debug\RoomReservationClient.BookingDetailsForm.resources
+C:\Users\User\source\repos\BookingManagment\RoomReservationClient\obj\Debug\RoomReservationClient.AddEditForm.resources
+C:\Users\User\source\repos\BookingManagment\RoomReservationClient\obj\Debug\RoomReservationClient.csprojAssemblyReference.cache

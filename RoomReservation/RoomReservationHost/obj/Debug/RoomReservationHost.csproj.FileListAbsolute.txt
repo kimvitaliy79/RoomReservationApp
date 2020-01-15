@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\RoomReservation\RoomReservationHost\bin\Debug\RoomReservationHost.exe.config
+C:\Users\User\source\repos\RoomReservation\RoomReservationHost\bin\Debug\RoomReservationHost.exe
+C:\Users\User\source\repos\RoomReservation\RoomReservationHost\bin\Debug\RoomReservationHost.pdb
+C:\Users\User\source\repos\RoomReservation\RoomReservationHost\obj\Debug\RoomReservationHost.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RoomReservation\RoomReservationHost\obj\Debug\RoomReservationHost.exe
+C:\Users\User\source\repos\RoomReservation\RoomReservationHost\obj\Debug\RoomReservationHost.pdb
+C:\Users\User\source\repos\RoomReservation\RoomReservationHost\bin\Debug\RoomReservationService.dll
+C:\Users\User\source\repos\RoomReservation\RoomReservationHost\bin\Debug\RoomReservationService.pdb
+C:\Users\User\source\repos\RoomReservation\RoomReservationHost\bin\Debug\RoomReservationService.dll.config
+C:\Users\User\source\repos\RoomReservation\RoomReservationHost\obj\Debug\RoomReservationHost.csproj.CopyComplete
+C:\Users\User\source\repos\RoomReservation\RoomReservationHost\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\RoomReservation\RoomReservationHost\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\RoomReservation\RoomReservationHost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\RoomReservation\RoomReservationHost\bin\Debug\EntityFramework.SqlServer.xml

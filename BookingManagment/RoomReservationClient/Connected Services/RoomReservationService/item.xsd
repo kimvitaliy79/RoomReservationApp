@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/RoomReservationService.Model" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/RoomReservationService.Model" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfBookingDetails">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="BookingDetails" nillable="true" type="tns:BookingDetails" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfBookingDetails" nillable="true" type="tns:ArrayOfBookingDetails" />
+  <xs:complexType name="BookingDetails">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="AdvancePayed" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="BookedDateFrom" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="BookedDateTO" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="BookingID" type="xs:int" />
+      <xs:element minOccurs="0" name="BookingStatus" type="xs:int" />
+      <xs:element minOccurs="0" name="RoomID" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="BookingDetails" nillable="true" type="tns:BookingDetails" />
+</xs:schema>

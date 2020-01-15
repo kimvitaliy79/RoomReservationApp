@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\RoomReservation\WcfServiceTest\bin\WcfServiceTest.dll.config
+C:\Users\User\source\repos\RoomReservation\WcfServiceTest\bin\WcfServiceTest.dll
+C:\Users\User\source\repos\RoomReservation\WcfServiceTest\bin\WcfServiceTest.pdb
+C:\Users\User\source\repos\RoomReservation\WcfServiceTest\obj\Debug\WcfServiceTest.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RoomReservation\WcfServiceTest\obj\Debug\WcfServiceTest.dll
+C:\Users\User\source\repos\RoomReservation\WcfServiceTest\obj\Debug\WcfServiceTest.pdb
